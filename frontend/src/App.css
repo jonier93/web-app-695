@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.block-navegation {
+  background-color: black;  
+}
+
+.block-items {
+  display: inline;
+}
+
+#btn-nav {
+  background-color: black;
+  color: white;
+  font-size: 35px;
+  border: 0px;
+  padding: 1.5%;
+}
+
+p {
+  font-size: 20px;
+  margin: 2%;
+  text-align: justify;
+}
+
+#img-home {
+  height: 500px;
+}
+
+.img-icon {
+  height: 120px;
+}
